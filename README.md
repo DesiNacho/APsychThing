@@ -33,5 +33,3 @@ Can you do it?
 Okay, now what if you try to identify each fiber of the grass? How much precision can you add into this image, until your mind stops trying?
 
 More importantly, why does it stop trying? Do we somehow lack bandwidth or GPU power, but like Biological? I dunno.
-
-## DEJA VU! I've just been on this place before~
