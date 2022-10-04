@@ -1,6 +1,6 @@
 # A Psych Thing
 
-As a proffesional AP Psychologist, it is **imperative** I boast about my shallow research in such a deep subject simply because I got a 5 on the already "made for the dumb" AP Psych Exam. But here, I will go and attempt to extrapolate many things about our minds, stating and noting down some phenomena I've noticed after realizing the complexity of our heads.
+As a proffesional AP Psychologist, it is **imperative** I boast about my shallow research in such a deep subject simply because I got a 5 on the already "made for the dumb" AP Psych Exam. But here, I will go and attempt to extrapolate things about our minds, stating and noting down two phenomena I've noticed after realizing the complexity of our heads.
 
 ![image](https://user-images.githubusercontent.com/114519229/193736650-f2db5b3d-62f5-4cdd-be7a-59c568110d69.jpg)
 
@@ -33,3 +33,9 @@ Can you do it?
 Okay, now what if you try to identify each fiber of the grass? How much precision can you add into this image, until your mind stops trying?
 
 More importantly, why does it stop trying? Do we somehow lack bandwidth or GPU power, but like Biological? I dunno.
+
+## Continue the Legacy
+
+It is because of people trying to expand upon our understanding of already known subject that the world of scientific development moves. And most of the time it ussually starts by stating somethings you notice. Maybe somehwere within the abyss, all of my questions are answered, but the one time it isn't, thats the jackpot of it all.
+
+So here's my take, I want anyone still reaading, to look up cool things our brain can do, then try to break the system. Find ways to trick these phenomonon. And you can do this simply by searching up phenomenon in websites like [this](https://www.toptenz.net/10-fascinating-psychological-phenomena.php)
