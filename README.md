@@ -2,6 +2,8 @@
 
 As a proffesional AP Psychologist, it is **imperative** I boast about my shallow research in such a deep subject simply because I got a 5 on the already "made for the dumb" AP Psych Exam. But here, I will go and attempt to extrapolate many things about our minds, stating and noting down some phenomena I've noticed after realizing the complexity of our heads.
 
+![download](https://user-images.githubusercontent.com/114519229/193736650-f2db5b3d-62f5-4cdd-be7a-59c568110d69.jpg)
+
 ## Imagination
 
 Many of us possess the uncanny ability to imagine things. Shocker. But are there limits? Yes... I think. Here's my first phenomenon, the fact, that we cannot imagine a face we have not seen before. Any face we imagine, we have seen before, and have added it into a catalougue of faces, all organized by their traits. You want to imagine a tanned boy with golden hair and green eyes, you brain runs a very large scan and pops up an image that best fits the criteria. 
