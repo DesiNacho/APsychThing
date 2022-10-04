@@ -1,3 +1,6 @@
+markdown: kramdown
+theme: time-machine
+
 # A Psych Thing
 
 As a proffesional AP Psychologist, it is **imperative** I boast about my shallow research in such a deep subject simply because I got a 5 on the already "made for the dumb" AP Psych Exam. But here, I will go and attempt to extrapolate many things about our minds, stating and noting down some phenomena I've noticed after realizing the complexity of our heads.
