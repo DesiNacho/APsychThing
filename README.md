@@ -38,4 +38,6 @@ More importantly, why does it stop trying? Do we somehow lack bandwidth or GPU p
 
 It is because of people trying to expand upon our understanding of already known subject that the world of scientific development moves. And most of the time it ussually starts by stating somethings you notice. Maybe somehwere within the abyss, all of my questions are answered, but the one time it isn't, thats the jackpot of it all.
 
-So here's my take, I want anyone still reaading, to look up cool things our brain can do, then try to break the system. Find ways to trick these phenomonon. And you can do this simply by searching up phenomenon in websites like [this](https://www.toptenz.net/10-fascinating-psychological-phenomena.php)
+So here's my take, I want anyone still reaading, to look up cool things our brain can do, then try to break the system. Find ways to trick these phenomonon. And you can do this simply by searching up phenomenon in [websites like this](https://www.toptenz.net/10-fascinating-psychological-phenomena.php), or [this](https://www.kickassfacts.com/25-interesting-phenomena-of-a-human-mind/).
+
+Go Crazy with it, will ya?
